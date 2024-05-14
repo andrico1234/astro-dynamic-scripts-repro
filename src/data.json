@@ -1,0 +1,18 @@
+[
+  {
+    "params": {
+      "route": "1"
+    },
+    "props": {
+      "pathToScript": "../../../scripts/test-file.js"
+    }
+  },
+  {
+    "params": {
+      "route": "2"
+    },
+    "props": {
+      "pathToScript": "../../../scripts/test-file.js"
+    }
+  }
+]
